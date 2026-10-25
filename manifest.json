@@ -1,0 +1,16 @@
+{
+  "name": "عبدالله أحمد عُمرة - مطور برمجيات",
+  "short_name": "عبدالله عُمرة",
+  "description": "الموقع الشخصي الفاخر للمطور عبدالله أحمد عُمرة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/assets/images/1792958846262_f2867194.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
